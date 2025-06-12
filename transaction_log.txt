@@ -1,0 +1,12 @@
+[2025-06-12 21:18:01] ADDED Book: 'Python'
+[2025-06-12 21:18:05] ADDED Book: 'Java'
+[2025-06-12 21:18:11] ADDED Book: 'C programming'
+[2025-06-12 21:18:14] ADDED Book: 'C++'
+[2025-06-12 21:18:18] ADDED Book: 'php'
+[2025-06-12 21:18:23] ADDED Book: 'android'
+[2025-06-12 21:18:26] ADDED Book: 'kotlin'
+[2025-06-12 21:18:31] ADDED Book: 'Rust'
+[2025-06-12 21:19:13] REMOVED Book ID: 107 - 'kotlin'
+[2025-06-12 21:19:30] ISSUED Book ID: 107 to Dinga
+[2025-06-12 21:20:24] RETURNED Book ID: 107 by Dinga | Late by 11 days | Fine: Rs.55
+[2025-06-12 21:20:48] ISSUED Book ID: 106 to Krish
