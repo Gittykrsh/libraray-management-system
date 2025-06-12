@@ -142,11 +142,10 @@ You have returned the book 10 days late. Your fine is: Rs.15
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is open-source and free to use for learning or demo purposes.
 
 ---
 
 ## 👏 Credits
 
 Made with ❤️ by **Shakya**  
-Guided by **Dinga (ChatGPT)**
