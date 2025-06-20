@@ -93,6 +93,7 @@ Choose from the menu:
 ## 📂 File Examples
 
 **📘 list_of_books.txt:**
+
 ```
 Python
 Java
@@ -100,6 +101,7 @@ C Programming
 ```
 
 **📄 issued_books.json:**
+
 ```json
 {
   "106": {
@@ -111,6 +113,7 @@ C Programming
 ```
 
 **🧾 transaction_log.txt:**
+
 ```
 [2025-06-12 10:42:00] ISSUED Book ID: 106 to Dinga
 [2025-06-19 11:05:13] RETURNED Book ID: 106 by Dinga | On time
