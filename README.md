@@ -21,7 +21,7 @@ A Python-based console project for managing a library system. You can issue, ret
 
 ---
 
-## 🖥️ GUI Preview
+## 🖥️ Preview
 
 ![Preview](https://github.com/user-attachments/assets/d9e36720-80ab-45f9-9965-3aef7920e83c)
 
