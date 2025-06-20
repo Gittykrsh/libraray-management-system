@@ -1,4 +1,4 @@
-# 📖 Library Book Management System (Console-based)
+# 📖 Library Book Management System
 
 A Python-based console project for managing a library system. You can issue, return, add, remove, view, and search books easily. It also keeps track of transaction logs and late return fines — everything stored locally via file I/O.
 
